@@ -1,5 +1,5 @@
 To create a deployment
-hello
+BUILD_CONTAINER_IMAGE
 
 kubectl create -f deployment.yaml
 
